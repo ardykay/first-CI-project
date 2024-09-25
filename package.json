@@ -1,0 +1,19 @@
+
+
+{
+  "name": "ci-cd-pipeline-project",
+  "version": "1.0.0",
+  "description": "A basic Node.js project with CI pipeline",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Running tests...\" && jest",
+    "build": "echo \"Building project...\""
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
+
